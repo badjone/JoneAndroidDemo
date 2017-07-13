@@ -1,9 +1,4 @@
-/* 
- * @Title:  BaseActivity.java 
- * @Description:  基类activity
- * @version:  V1.0 
- * @data:  2015-1-21 下午3:27:36 
- */
+
 package com.badjone.UI.Activity;
 
 import android.app.Activity;
@@ -31,7 +26,8 @@ import java.util.Map;
 /**
  * 基类activity
  *
- * @author huangxiao
+ * @author badjone
+ * @Date 2016/12/8 11:35
  */
 public abstract class BaseActivity extends AppCompatActivity {
     abstract protected int getLayoutId();
