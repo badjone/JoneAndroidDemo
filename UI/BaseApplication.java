@@ -28,7 +28,11 @@ import static com.badjone.constant.CommonCode.CONNECTTIMEOUT;
 import static com.badjone.constant.CommonCode.READTIMEOUT;
 import static com.badjone.constant.Constants.SP.SP_GENSTURE;
 
-
+/**
+ *
+ * @author badjone
+ * @Date 2015/12/8 11:35
+ */
 public class BaseApplication extends Application {
 
     /**

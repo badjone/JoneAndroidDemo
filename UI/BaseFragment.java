@@ -14,7 +14,7 @@ import com.badjone.UI.Functions;
  * Fragment基类
  *
  * @author badjone
- * @Date 2016/12/8 11:35
+ * @Date 2015/12/8 11:35
  */
 public abstract class BaseFragment extends Fragment {
     public BaseActivity fa;

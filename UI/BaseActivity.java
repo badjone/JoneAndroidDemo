@@ -27,7 +27,7 @@ import java.util.Map;
  * 基类activity
  *
  * @author badjone
- * @Date 2016/12/8 11:35
+ * @Date 2015/12/8 11:35
  */
 public abstract class BaseActivity extends AppCompatActivity {
     abstract protected int getLayoutId();
